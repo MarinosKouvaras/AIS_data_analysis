@@ -1,0 +1,1 @@
+This is repository from https://aisstream.io/documentation#ShipStaticData where I get some AIS data.
